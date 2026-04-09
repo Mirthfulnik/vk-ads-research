@@ -1,3 +1,9 @@
-data/raw/ 
-.venv/ 
-__pycache__/ 
+data/raw/
+data/processed/campaigns_clean.xlsx
+data/processed/groups_clean.xlsx
+data/processed/ads_clean.xlsx
+data/processed/artists_clean.xlsx
+data/processed/vk_ads.db
+.venv/
+__pycache__/
+*.pyc
