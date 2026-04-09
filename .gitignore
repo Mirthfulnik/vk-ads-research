@@ -4,6 +4,7 @@ data/processed/groups_clean.xlsx
 data/processed/ads_clean.xlsx
 data/processed/artists_clean.xlsx
 data/processed/vk_ads.db
+data/processed/synthetic/quality_report.csv
 .venv/
 __pycache__/
 *.pyc
