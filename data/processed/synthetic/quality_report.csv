@@ -1,6 +1,0 @@
-metric,real_mean,synthetic_mean,real_median,synthetic_median,ks_statistic,p_value
-spent_total,14585.57,21975.89,3939.94,2760.43,0.142,0.004
-impressions,104454.71,114928.86,26757.0,51071.5,0.124,0.018
-clicks,2866.5,3510.9,518.5,1289.0,0.144,0.004
-listens_started,2439.22,2940.73,390.0,1080.5,0.189,0.0
-audio_added,574.28,842.07,72.0,483.0,0.313,0.0
